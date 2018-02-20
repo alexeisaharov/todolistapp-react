@@ -1,0 +1,17 @@
+*/node_modules
+*.vscode
+*.idea
+*/build
+*/bin
+*/obj
+*.vs
+*/public
+/backend-sandbox/CatADogWebApi/CatADogWebApi/obj
+/backend-sandbox/CatADogWebApi/CatADogWebApi/bin
+/frontend/node_modules
+frontend/dist
+/frontend-sandbox/node_modules
+/frontend-sandbox/dist
+/backend-sandbox/CatADogWebApi/bin
+/backend-sandbox/CatADogWebApi/obj
+frontend/dist/bundle.js
