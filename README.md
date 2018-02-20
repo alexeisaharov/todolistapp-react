@@ -12,7 +12,7 @@ This repository has next folders:
 - reflux:
     sample of app implemented on React with Reflux
 
-##Run app
+Run app
 You can run application b yusing webpack dev server
 In terminal, go to folder with type of app that you want to run and investigate
 (basic, flux, reflux or redux)
