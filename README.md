@@ -15,6 +15,7 @@ This repository has next folders:
 ## Run app
 
 You can run application by using webpack dev server
+
 In terminal, go to folder with type of app that you want to run and investigate
 (basic, flux, reflux or redux)
 
