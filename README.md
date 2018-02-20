@@ -3,14 +3,14 @@ This is a simple TodoList application sample using React and based on this tutor
 https://github.com/Microsoft/vscode-react-sample
 
 This repository has next folders:
-- basic
-    This is a sample of app implemented on pure React
-- flux
-    This is a sample of app implemented on React with Flux
-- redux
-    This is a sample of app implemented on React with Redux
-- reflux
-    This is a sample of app implemented on React with Reflux
+- basic:
+    sample of app implemented on pure React
+- flux: 
+    sample of app implemented on React with Flux
+- redux:
+    sample of app implemented on React with Redux
+- reflux:
+    sample of app implemented on React with Reflux
 
 #Run app
 You can run application b yusing webpack dev server
