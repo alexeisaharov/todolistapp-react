@@ -19,7 +19,7 @@ You can run application by using webpack dev server
 In terminal, go to folder with type of app that you want to run and investigate
 (basic, flux, reflux or redux)
 
-Than execute next commands:
+Then execute next commands:
 
 ```console
 npm install
@@ -32,6 +32,7 @@ npm run build
 ```
 
 Then go to `http://localhost:3000` in browser
+
 You will see simple TodoList application
 
 Data stores in memory
