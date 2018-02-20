@@ -1,0 +1,11 @@
+.NewTodo_spacing {
+    float: left;
+    width: 30%;
+    margin: 3%;
+}
+
+.NewTodo-Question_prompt {
+    font-family: Roboto, sans-serif;
+    font-size: 16;
+    line-height: 16px;
+}
