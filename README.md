@@ -53,6 +53,6 @@ You will see simple TodoList application
 
 Data stores in memory
 
-This projects use identical packages, except of flow packages (flux, reflux and redux accordingly)
+These projects use identical packages, except of flow packages (flux, reflux and redux accordingly)
 
 Enjoy!
